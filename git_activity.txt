@@ -1,2 +1,3 @@
 This is my first Git activity.
 More info added in feature branch.
+test new line 1
